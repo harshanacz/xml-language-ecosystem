@@ -1,0 +1,21 @@
+[submodule "xerces-wasm-validator"]
+	path = xerces-wasm-validator
+	url = https://github.com/harshanacz/xerces-wasm-validator.git
+[submodule "xerces-playground"]
+	path = xerces-playground
+	url = https://github.com/harshanacz/xerces-playground.git
+[submodule "xml-language-service"]
+	path = xml-language-service
+	url = https://github.com/harshanacz/xml-language-service.git
+[submodule "xml-language-server"]
+	path = xml-language-server
+	url = https://github.com/harshanacz/xml-language-server.git
+[submodule "xml-language-client"]
+	path = xml-language-client
+	url = https://github.com/harshanacz/xml-language-client.git
+[submodule "xml-lsp-marketplace"]
+	path = xml-lsp-marketplace
+	url = https://github.com/harshanacz/xml-lsp-marketplace.git
+[submodule "xml-review-bot-demo"]
+	path = xml-review-bot-demo
+	url = https://github.com/harshanacz/xml-review-bot-demo.git
