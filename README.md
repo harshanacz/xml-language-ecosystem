@@ -4,6 +4,7 @@ A high-performance, modular XML tooling ecosystem built entirely in TypeScript a
 
 ## System Architecture
 
+```mermaid
 flowchart TB
     V["xerces-wasm-validator<br/>(C++ Apache Xerces in WebAssembly)"]
     S["xml-language-service<br/>(Diagnostics, Completion, Formatting, XSD)"]
@@ -20,6 +21,7 @@ flowchart TB
 
     classDef core fill:#f6f8fa,stroke:#57606a,color:#24292f
     class V,S,L,B,VS,M,P core
+```
 
 ## Ecosystem Repositories
 
