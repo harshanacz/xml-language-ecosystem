@@ -1,8 +1,11 @@
-#  XML Language Ecosystem (Multi-Repo Architecture)
-
 > ⚠️ **Note:** This is an "Umbrella Repository" used for documentation and architectural overview. The actual source code is distributed across the individual repositories linked below.
-
+> 
+#  XML Language Ecosystem (Multi-Repo Architecture)
 A high-performance XML tooling ecosystem powered by WebAssembly, Apache Xerces, and the Language Server Protocol (LSP). 100% TypeScript, zero Java dependencies.
+
+
+
+
 
 ## System Architecture
 
